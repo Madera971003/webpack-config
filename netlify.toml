@@ -1,4 +1,4 @@
 [build]
-  base = './'
+  base = 'webpack-config'
   publish = 'dist'
   comand = 'npm run build'
